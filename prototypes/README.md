@@ -1,0 +1,1 @@
+All other files in this folder were made using <a href="https://obsidian.md/">Obsidian note taking app</a> with <a href="https://github.com/zsviczian/obsidian-excalidraw-plugin">Excalidraw extension</a>.
