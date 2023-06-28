@@ -1,0 +1,22 @@
+Project development roadmap
+- [x] Prototypes (sketches);
+    - [x] Menu bar;
+    - [x] Personal info;
+    - [x] Project list;
+    - [x] Hobbies;
+    - [x] Settings;
+- [ ] Content (texts and images);
+    - [ ] Personal info content;
+        - [ ] "my city" content;
+    - [ ] Hobbies content;
+- [ ] Create menu bar;
+- [ ] Create settings view;
+    - [ ] Add localization settings support;
+- [ ] Ensure that acessibility resources are functioning correctly;
+- [ ] Create personal info view;
+    - [ ] Create "my city" section;
+- [ ] Create project list view;
+    - [ ] Create project metadata api retriever client;
+    - [ ] Create project filter by tag;
+- [ ] Create hobbies view;
+

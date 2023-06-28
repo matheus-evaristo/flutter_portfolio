@@ -1,1 +1,1 @@
-All other files in this folder were made using <a href="https://obsidian.md/">Obsidian note taking app</a> with <a href="https://github.com/zsviczian/obsidian-excalidraw-plugin">Excalidraw extension</a>.
+All other markdown files in this folder were made using <a href="https://obsidian.md/">Obsidian note taking app</a> with <a href="https://github.com/zsviczian/obsidian-excalidraw-plugin">Excalidraw extension</a>. For easier visualization without having to install the app, I've exported the sketches as PNG images.
